@@ -395,7 +395,7 @@ class Puzzle {
   }
 
   showResults() {
-    alert('Not implemented yet..');
+    alert('Not done');
   }
 
   showMessage() {
